@@ -27,7 +27,7 @@
 - 📡 API Integration & Automation
 - 🧩 CLI-based interface for advanced usage
 
-> 📁 | Repository coming soon or available [here](https://github.com/RyzenGT/AzunaTool)
+> 📁 Repository coming soon or available [here](https://github.com/RyzenGT/AzunaTool)
 
 ## 📊 GitHub Stats
 
