@@ -45,7 +45,7 @@
 
 ## 📫 Contact
 
-- 💬 Discord : `kng.ngao`
+- 💬 Discord : ```kng.ngao```
 - 📧 Email   : [AzunaTool@gmail.com](mailto:azunatool@gmail.com) 
 - 🌐 Website : Soon.
 
