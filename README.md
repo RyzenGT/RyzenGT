@@ -12,24 +12,20 @@
 
 ## 🧑‍💻 About Me
 
-- 👋 | Hello, I'm **RyzenGT**
-- 💻 | Passionate developer specialized in **Python** and **C++**
-- 🔧 | Currently working on **AzunaTool**, an advanced automation script using APIs
-- 🌐 | Focused on cybersecurity tools, automation, and backend efficiency
-- 📈 | Always improving, always learning
+- 👋 Hi, I'm **RyzenGT**
+- 💻 Developer specialized in **Python** and **C++**
+- 🛠️ I build automation tools with simplicity and performance in mind
+- 🎯 Focused on creating user-friendly interfaces powered by strong backend logic
 
 ## 🚀 Current Project
 
-### 🔹 AzunaTool – Automated IT Toolkit
+### 🔹 AzunaTool – Automated Discord Utility Tool
 
-> AzunaTool is a powerful and flexible script designed to simplify and automate various IT operations by leveraging external APIs.  
-> Whether you're looking to perform reconnaissance, manage systems, or integrate with online services, **AzunaTool** provides a streamlined experience.
+> **AzunaTool** is an all-in-one automation script designed to interact with the **Discord API** in a simplified way.  
 
 **Key Features:**
-- 📡 | API Integration & Automation
-- ⚙️ | Modular & Extensible Architecture
-- 🔒 | Lightweight and Secure by Design
-- 🧩 | CLI-based interface for advanced usage
+- 📡 API Integration & Automation
+- 🧩 CLI-based interface for advanced usage
 
 > 📁 | Repository coming soon or available [here](https://github.com/RyzenGT/AzunaTool)
 
@@ -49,8 +45,8 @@
 
 ## 📫 Contact
 
-- 💬 Discord: `RyzenGT`
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com) 
+- 💬 Discord: `kng.ngao`
+- 📧 Email: [AzunaTool@gmail.com](mailto:azunatool@gmail.com) 
 - 🌐 Website/Portfolio: 
 
 <h1 align="center"></h1>
