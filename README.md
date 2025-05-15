@@ -20,13 +20,8 @@
 
 ### AzunaTool – Discord Tool
 
-> **AzunaTool** is an all-in-one automation script designed to interact with the **Discord API** in a simplified way.  
-
-**Key Features:**
-- Discord API Integration & Automation
-- CLI-based interface for advanced usage
-
-> Repository coming soon or available [here](https://github.com/RyzenGT/AzunaTool)
+- **AzunaTool** is an all-in-one automation script designed to interact with the **Discord API** in a simplified way.  
+- Repository coming soon or available [here](https://github.com/RyzenGT/AzunaTool)
 
 ## GitHub Stats
 
