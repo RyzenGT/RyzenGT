@@ -10,26 +10,26 @@
   <i>Owner of AzunaTool – Automation meets efficiency.</i>
 </p>
 
-<h1 align="center">About Me</h1>
+## About Me
 
-- 👋 Hi, I'm **RyzenGT**
-- 💻 Developer specialized in **Python** and **C++**
-- 🛠️ I build automation tools with simplicity and performance in mind
-- 🎯 Focused on creating user-friendly interfaces powered by strong backend logic
+- Hi, I'm **RyzenGT**
+- Developer specialized in **Python** and **C++**
+- 🛠I build automation tools with simplicity and performance in mind
+- Focused on creating user-friendly interfaces powered by strong backend logic
 
-## 🚀 Current Project
+## Current Project
 
-### 🔹 AzunaTool – Automated Discord Utility Tool
+### AzunaTool – Automated Discord Utility Tool
 
 > **AzunaTool** is an all-in-one automation script designed to interact with the **Discord API** in a simplified way.  
 
 **Key Features:**
-- 📡 API Integration & Automation
-- 🧩 CLI-based interface for advanced usage
+- API Integration & Automation
+- CLI-based interface for advanced usage
 
-> 📁 Repository coming soon or available [here](https://github.com/RyzenGT/AzunaTool)
+> Repository coming soon or available [here](https://github.com/RyzenGT/AzunaTool)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RyzenGT&color=000000" alt="Profile Views">
