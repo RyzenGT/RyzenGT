@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img src="Icon.png" alt="AzunaTool Logo" width="125">
+  <img src="34256-thumbsup" width="125">
 </p>
 
 <h1 align="center">Welcome to my GitHub Profile</h1>
