@@ -10,7 +10,7 @@
   <i>Owner of AzunaTool – Automation meets efficiency.</i>
 </p>
 
-## 🧑‍💻 About Me
+<h1 align="center">About Me</h1>
 
 - 👋 Hi, I'm **RyzenGT**
 - 💻 Developer specialized in **Python** and **C++**
