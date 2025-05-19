@@ -18,7 +18,7 @@
 
 ## My Project
 
-(AzunaTool)[https://github.com/RyzenGT/AzunaTool] is a Multi-Tool with many features designed for:
+[AzunaTool](https://github.com/RyzenGT/AzunaTool) is a Multi-Tool with many features designed for:
 
 - OSINT
 - Cybersecurity
