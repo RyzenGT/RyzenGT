@@ -16,6 +16,15 @@
 - Developer specialized in **Python** and **C++**
 - I build a **Multi-Tool**.
 
+## My Project
+
+(AzunaTool)[https://github.com/RyzenGT/AzunaTool] is a Multi-Tool with many features designed for:
+
+- OSINT
+- Cybersecurity
+- Penetration Testing
+- Discord
+
 ## GitHub Stats
 
 <p align="center">
