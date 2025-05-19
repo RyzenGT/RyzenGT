@@ -16,13 +16,6 @@
 - Developer specialized in **Python** and **C++**
 - I build a **multi-tools**.
 
-## Current Project
-
-### AzunaTool – Overpowered Multi-Tools
-
-- **AzunaTool** is a multi-tools for OSINT, Cyber Security, Network Scanning and Discord.
-- Repository coming soon or available [here](https://github.com/RyzenGT/AzunaTools)
-
 ## GitHub Stats
 
 <p align="center">
@@ -37,8 +30,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RyzenGT&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats">
 </p>
 
-## 📫 Contact
+## Contact
 
-- 💬 Discord : `kng.ngao`
+- Discord : `kng.ngao`
 
 <h1 align="center"></h1>
