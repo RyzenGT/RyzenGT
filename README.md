@@ -6,15 +6,11 @@
 
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
-<p align="center">
-  <i>Owner of AzunaTool – Overpowered Multi-Tool.</i>
-</p>
-
 ## About Me
 
 - Hi, I'm **RyzenGT**
 - Developer specialized in **Python** and **C++**
-- I build a **Multi-Tool**.
+- Owner of **AzunaTool**.
 
 ## My Project
 
