@@ -22,7 +22,7 @@
 
 - OSINT
 - Cybersecurity
-- Penetration Testing
+- Pentesting
 - Discord
 
 ## GitHub Stats
