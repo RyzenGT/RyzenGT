@@ -14,14 +14,14 @@
 
 - Hi, I'm **RyzenGT**
 - Developer specialized in **Python** and **C++**
-- I build a **discord tool**.
+- I build a **multi-tools**.
 
 ## Current Project
 
-### AzunaTool – Overpowered Discord Tool
+### AzunaTool – Overpowered Multi-Tools
 
-- **AzunaTool** is an all-in-one automation script designed to interact with the **Discord API** in a simplified way.  
-- Repository coming soon or available [here](https://github.com/RyzenGT/AzunaTool)
+- **AzunaTool** is a multi-tools for OSINT, Cyber Security, Network Scanning and Discord.
+- Repository coming soon or available [here](https://github.com/RyzenGT/AzunaTools)
 
 ## GitHub Stats
 
@@ -40,6 +40,5 @@
 ## 📫 Contact
 
 - 💬 Discord : `kng.ngao`
-- 🌐 Website : Soon.
 
 <h1 align="center"></h1>
