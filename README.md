@@ -12,15 +12,6 @@
 - Developer specialized in **Python** and **C++**
 - Owner of **AzunaTool**.
 
-## My Project
-
-[AzunaTool](https://github.com/RyzenGT/AzunaTool) is a Multi-Tool with many features designed for:
-
-- OSINT
-- Cybersecurity
-- Pentesting
-- Discord
-
 ## GitHub Stats
 
 <p align="center">
