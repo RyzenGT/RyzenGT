@@ -10,7 +10,6 @@
 
 - Hi, I'm **RyzenGT**
 - Developer specialized in **Python** and **C++**
-- Owner of **AzunaTool**.
 
 ## GitHub Stats
 
