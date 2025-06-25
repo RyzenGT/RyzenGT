@@ -8,7 +8,7 @@
 
 ## About Me
 
-- Hi, I'm **RyzenGT**
+- Hi, I'm **!/KNG**
 - Developer specialized in **Python** and **C++**
 
 ## GitHub Stats
